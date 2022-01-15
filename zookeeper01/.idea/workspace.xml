@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0afb528d-99d6-48f0-ba5c-de90ed24072d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23dTs4jce0viC8qIxcLl1QO8dmy" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.36649215" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.ShopServer">
+    <configuration name="Customers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yan.dong.meituan.Customers" />
+      <module name="zookeeper01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yan.dong.meituan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yan.dong.meituan.ShopServer" />
+      <module name="zookeeper01" />
+      <option name="PROGRAM_PARAMETERS" value="roujiamo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yan.dong.meituan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZK.exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yan.dong.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yan.dong.text" />
+      <option name="MAIN_CLASS_NAME" value="yan.dong.text.TestZK" />
+      <option name="METHOD_NAME" value="exist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZK.getChildren" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yan.dong.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yan.dong.text" />
+      <option name="MAIN_CLASS_NAME" value="yan.dong.text.TestZK" />
+      <option name="METHOD_NAME" value="getChildren" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZK.getNodeData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yan.dong.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yan.dong.text" />
+      <option name="MAIN_CLASS_NAME" value="yan.dong.text.TestZK" />
+      <option name="METHOD_NAME" value="getNodeData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Customers" />
+      <item itemvalue="Application.ShopServer" />
+      <item itemvalue="JUnit.TestZK.exist" />
+      <item itemvalue="JUnit.TestZK.getChildren" />
+      <item itemvalue="JUnit.TestZK.getNodeData" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShopServer" />
+        <item itemvalue="Application.Customers" />
+        <item itemvalue="JUnit.TestZK.getChildren" />
+        <item itemvalue="JUnit.TestZK.getNodeData" />
+        <item itemvalue="JUnit.TestZK.exist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0afb528d-99d6-48f0-ba5c-de90ed24072d" name="Default Changelist" comment="" />
+      <created>1642063177311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642063177311</updated>
+      <workItem from="1642063181963" duration="5370000" />
+      <workItem from="1642119339184" duration="6329000" />
+      <workItem from="1642126185443" duration="4384000" />
+      <workItem from="1642238980306" duration="9000" />
+      <workItem from="1642243526170" duration="5000" />
+      <workItem from="1642247581481" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
